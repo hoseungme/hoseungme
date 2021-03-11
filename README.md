@@ -6,4 +6,4 @@
 npx hsj
 ```
 npm이 없으시다면? 👇<br>
-[https://about.janghoseung.com](https://about.janghoseung.com)
+[https://about.hoseung.me](https://about.hoseung.me)
