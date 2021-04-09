@@ -7,3 +7,6 @@ npx hsj
 ```
 npm이 없으시다면? 👇<br>
 [https://about.hoseung.me](https://about.hoseung.me)
+
+나를 위한 웹서비스들 👇<br>
+[hoseung-only](https://github.com/hoseung-only)
