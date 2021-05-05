@@ -10,3 +10,6 @@ npm이 없으시다면? 👇<br>
 
 나를 위한 웹서비스들 👇<br>
 [hoseung-only](https://github.com/hoseung-only)
+
+개인 위키 👇<br>
+[https://hoseungjang.github.io/wiki-front](https://hoseungjang.github.io/wiki-front)
