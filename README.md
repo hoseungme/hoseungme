@@ -8,8 +8,8 @@ npx hsj
 npm이 없으시다면? 👇<br>
 [https://about.hoseung.me](https://about.hoseung.me)
 
-나를 위한 웹서비스들 👇<br>
-[hoseung-only](https://github.com/hoseung-only)
+개인 블로그 👇<br>
+[https://blog.hoseung.me](https://blog.hoseung.me)
 
 개인 위키 👇<br>
 [https://hoseungjang.github.io/wiki-front](https://hoseungjang.github.io/wiki-front)
