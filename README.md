@@ -1,4 +1,3 @@
-- My
-  - Resume ([한국어](https://about.hoseung.me))
-  - Tech blog ([한국어](https://blog.hoseung.me) / [English](https://blog.hoseung.me/en))
-  - Open Source Contributions ([한국어](https://github.com/HoseungJang/opensources/blob/main/ko.md) / [English](https://github.com/HoseungJang/opensources/blob/main/README.md))
+- All of
+  - [My websites (\*.hoseung.me)](https://github.com/HoseungJang/websites)
+  - [My open source contributions](https://github.com/HoseungJang/opensources)
