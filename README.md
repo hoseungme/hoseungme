@@ -1,2 +1,1 @@
-- [about.hoseung.me](https://about.hoseung.me)
-- [blog.hoseung.me](https://about.hoseung.me)
+[Resume](https://about.hoseung.me) / [Blog](https://about.hoseung.me)
