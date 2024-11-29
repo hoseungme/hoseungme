@@ -1,1 +1,2 @@
-[about.hoseung.me](https://about.hoseung.me)
+- [about.hoseung.me](https://about.hoseung.me)
+- [blog.hoseung.me](https://about.hoseung.me)
