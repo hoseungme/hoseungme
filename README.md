@@ -1,3 +1,1 @@
-- All of
-  - [My websites (\*.hoseung.me)](https://github.com/HoseungJang/websites)
-  - [My open source contributions](https://github.com/HoseungJang/opensources)
+[about.hoseung.me](https://about.hoseung.me)
